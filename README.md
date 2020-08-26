@@ -18,3 +18,7 @@ Just for the original project and clone it locally
 ## How To Contribute
 
 This particular fork is private so no contributions at this time.
+
+## Copywright
+
+No copywrights.
