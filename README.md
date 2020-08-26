@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Ideally you would use it as part of a tutorial or class.
 
 ## Introduction
 
@@ -16,3 +16,5 @@ Just for the original project and clone it locally
 
 
 ## How To Contribute
+
+This particular fork is private so no contributions at this time.
