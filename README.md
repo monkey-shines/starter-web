@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Ideally you would use it as part of a tutorial or class.
 Adding a line for rebasing
+Now second line after we rebased master to myfeature
 
 ## Introduction
 
