@@ -21,4 +21,4 @@ This particular fork is private so no contributions at this time.
 
 ## Copywright
 
-No copywrights.
+This file is copywright 2020 by LDT limited industries. All rights reserved.
