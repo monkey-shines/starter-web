@@ -21,6 +21,6 @@ Just for the original project and clone it locally
 
 This particular fork is private so no contributions at this time.
 
-## Copywright
+## Copyright
 
 This file is copywright 2020 by LDT limited industries. All rights reserved.
